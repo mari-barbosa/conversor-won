@@ -1,4 +1,4 @@
-# Conversor de Moedas
+# Conversor de Moedas - Won -> Real
 
 Este é um projeto simples de conversor de moedas que converte valores de Won (₩) para Reais (R$). Ele foi desenvolvido utilizando HTML, CSS e JavaScript.
 
@@ -33,7 +33,3 @@ A página possui um design responsivo com um fundo estilizado e um botão intera
 - **HTML5**: Para a estrutura da página.
 - **CSS3**: Para o design e estilização.
 - **JavaScript**: Para a lógica de conversão.
-
-## Autor
-
-Desenvolvido com 💜 por **Mariana Barbosa**.
